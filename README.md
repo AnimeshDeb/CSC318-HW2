@@ -1,1 +1,1 @@
-# CSC318-HW2
+Homework 2 of CSC 318.
